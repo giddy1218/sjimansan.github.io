@@ -218,6 +218,9 @@
 	left: 26px;
 	top: 537px;
 	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+    	cursor: pointer;
 }
 #Group_4 {
 	position: absolute;
